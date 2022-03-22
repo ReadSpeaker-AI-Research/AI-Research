@@ -1,0 +1,8 @@
+body {
+   font-family: 'Roboto', Arial, sans-serif;
+}
+.paper_title {
+  font-style: italic;
+}
+.paper_date {
+  font-weight: bold;
